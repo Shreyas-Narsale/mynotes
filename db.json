@@ -1,0 +1,20 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food\n-Can we arraneg a met\n-Meet me\n-Hii",
+      "updated": "2023-07-27T07:44:00.327Z",
+      "created": "2021-07-13T00:17:13.289897Z"
+    },
+    {
+      "body": "Hii Pani\nPani\n\n",
+      "updated": "2023-07-27T07:37:51.744Z",
+      "id": 3
+    },
+    {
+      "body": "Web Crawler\n\nCrawlers consume resources on visited systems and often visit sites unprompted. Issues of schedule, load, and \"politeness\" come into play when large collections of pages are accessed. Mechanisms exist for public sites not wishing to be crawled to make this known to the crawling agent. For example, including a robots.txt file can request bots to index only parts of a website, or nothing at all.",
+      "updated": "2023-07-27T07:37:55.533Z",
+      "id": 4
+    }
+  ]
+}
